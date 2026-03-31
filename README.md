@@ -10,3 +10,5 @@
 5. Features & Highlights📈 Executive Sales Overview: Real-time tracking of total sales and profit margins across multiple segments.🗺️ Geographic Drill-Down: Interactive maps visualizing performance trends across 5 key regions.📦 Category Performance: Identification of high-return vs. loss-making product sub-categories.📅 Time-Series Analysis: Monthly and daily sales trends to detect seasonal fluctuations.💡 Discount Impact Study: Analyzing how heavy discounting affects the overall net profit
 
 6. Screenshots
+
+https://github.com/Tushar-Sarate/Superstore_Performance_Dashboard/blob/main/Snap%20of%20Dashboard.png
