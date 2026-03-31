@@ -11,4 +11,4 @@
 
 6. Screenshots
 
-https://github.com/Tushar-Sarate/Superstore_Performance_Dashboard/blob/main/Snap%20of%20Dashboard.png
+https://github.com/Tushar-Sarate/Superstore_Performance_Dashboard/blob/main/Snap%20of%20Dashobaord.png
